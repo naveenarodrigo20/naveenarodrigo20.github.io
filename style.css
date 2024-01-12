@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Salsa";
+    src: url("resouces/fonts/Salsa-Regular.ttf");
+}
+
+@font-face {
+    font-family: "DM";
+    src: url("resouces/fonts/DMSerifDisplay-Italic.ttf");
+}
+
+.title {
+    font-family: "DM";
+}
+
+.txt {
+    font-family: "Salsa";
+    font-size: 16px;
+}
+
+.body {
+    background-color: rgb(208, 248, 203);
+}
+
+.color {
+    background-color: rgb(192, 208, 167);
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+}
+
+.poster-img1 {
+    height: 600px;
+    width: 1200px;
+    margin-left: 150px;
+    background-repeat: no-repeat;
+}
+
+.poster-caption-1 {
+    margin-bottom: 110px;
+}
+
+.poster-caption-2 {
+    margin-left: 500px;
+}
+
+.poster-title-1 {
+    font-size: 75px;
+    color: black;
+    font-weight: bold;
+}
+
+.poster-txt-1 {
+    font-size: 30px;
+    color: rgb(3, 79, 4);
+    font-weight: bold;
+}
+
+.poster-txt-2 {
+    font-size: 50px;
+    color: rgb(3, 79, 4);
+    font-weight: bold;
+}
